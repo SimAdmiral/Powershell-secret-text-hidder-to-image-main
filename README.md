@@ -1,2 +1,2 @@
-# Powershell-secret-text-hidder-to-image-main
-Powershell secret text hidder to image main
+# Powershell-secret-text-hidder-to-image-
+You can hide secret text to image.
